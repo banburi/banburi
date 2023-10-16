@@ -1,2 +1,3 @@
 # Projects
-### [Peniel-virtualLibrary](https://github.com/banburi/Library-of-peniel) 
+### `Peniel-virtualLibrary` ![Static Badge](https://img.shields.io/badge/personal-project-blue)
+
